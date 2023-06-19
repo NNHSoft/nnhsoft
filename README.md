@@ -5,7 +5,7 @@ Nhận Code Tool MMO
   - <a href="https://www.facebook.com/profile.php?id=100093411416254">Facebook</a>
 
 - Tool
-  - IDFDown V1.0
+  - IMGFDown V1.0
     - Des : Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook
     - Giá : 149k/Vĩnh Viễn/1 Thiết Bị
 
