@@ -7,7 +7,7 @@ Nhận Code Tool MMO
 - Tool
   - IMGFDown V1.0
     - Des : Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook
-    - Giá : 149k/Vĩnh Viễn/1 Thiết Bị
+    - Giá : 100k/Vĩnh Viễn/1 Thiết Bị
 
 
 - Tip
