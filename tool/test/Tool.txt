@@ -1,4 +1,0 @@
-{
-    "version":1.0",
-    "title":"Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook"
-}
