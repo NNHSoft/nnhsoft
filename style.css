@@ -1,8 +1,0 @@
-.tool a {
-  margin-left: 5%;
-  display: none;
-}
-.tool:hover .m2{
-    padding: 5px;
-    display: block;
-}
