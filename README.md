@@ -13,7 +13,10 @@ Nhận Code Tool MMO
 
 - Tip
   - Get Token Instagram Facebook
-    - B1 : Truy Cập <a href="https://bit.ly/3gWryme">Link Này</a> Nhấn "Tiếp Tục"
+    - B1 : Truy Cập Link Này Nhấn Tiếp Tục
+        ```bash
+        https://bit.ly/3gWryme
+        ```
     - B2 : Truy Cập Link Này Sẽ Hiện Ra Access Token Trên URL
         ```bash
         view-source:https://www.facebook.com/dialog/oauth?client_id=124024574287414&redirect_uri=https://www.instagram.com/accounts/signup/&&scope=email&response_type=token
