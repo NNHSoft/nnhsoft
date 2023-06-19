@@ -12,6 +12,7 @@ Nhận Code Tool MMO
 
  
 - Tip
+  ###tipgettokeninstagram
   - Get Token Instagram Facebook
     - B1 : Truy Cập <a href="https://bit.ly/3gWryme">Link Này</a> Nhấn "Tiếp Tục"
     - B2 : Truy Cập Link Này Sẽ Hiện Ra Access Token Trên URL
