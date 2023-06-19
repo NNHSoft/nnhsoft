@@ -8,3 +8,13 @@ Nhận Code Tool MMO
   - IDFDown V1.0
     - Des : Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook
     - Giá : 149k/Vĩnh Viễn/1 Thiết Bị
+
+
+
+- Tip
+  - Get Token Instagram Facebook
+    - B1 : Truy Cập <a href="https://bit.ly/3gWryme">Link Này</a> Nhấn "Tiếp Tục"
+    - B2 : Truy Cập Link Này Sẽ Hiện Ra Access Token Trên URL
+        ```bash
+        view-source:https://www.facebook.com/dialog/oauth?client_id=124024574287414&redirect_uri=https://www.instagram.com/accounts/signup/&&scope=email&response_type=token
+        ```
