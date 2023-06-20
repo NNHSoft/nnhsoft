@@ -7,8 +7,12 @@ Nhận Code Tool MMO
 - Tool
   - IMGFDown V1.0
     - Des : Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook
-    - Giá : 100k/Vĩnh Viễn/1 Thiết Bị
+    - Giá : 100k/Vĩnh Viễn/1 Key
     - <a href="https://youtu.be/r0ytiwQ6paM">Xem Video Demo</a>
+  - LDMail V1.0
+    - Des : Tool Check Live Die All Domain Mail (mail.com,gmx.com,gmx.net,hotmail,gmail,...) ,sẽ Update Thêm Các Đuôi Mail Theo Yêu Cầu
+    - Giá : 300k/1 Tháng/1 Key - 900k/1 Năm/2 Key
+    - <a href="https://youtu.be/E4rKfXz-HqY">Xem Video Demo</a>
 
 - Tip
   - Get Token Instagram Facebook
