@@ -15,7 +15,7 @@ Nhận Code Tool MMO
      -![b1ef310ce341301f6950](https://github.com/NNHSoft/nnhsoft/assets/137013278/02020b1e-cde6-4c5c-91e8-f2972dd0ced8)
   - IMGFDown V1.1
     - Des : Tool Tải Ảnh Từ ID (Profile, Group,...) Facebook, Ảnh Từ Comment Bài Viết
-    - Giá : 100k/Vĩnh Viễn/1 Key
+    - Giá : 200k/Vĩnh Viễn/1 Key
     - <a href="https://youtu.be/r0ytiwQ6paM">Xem Video Demo</a>
   - LDMail V1.0
     - Des : Tool Check Live Die All Domain Mail (mail.com,gmx.com,gmx.net,hotmail,gmail,...) ,sẽ Update Thêm Các Đuôi Mail Theo Yêu Cầu
